@@ -25,6 +25,7 @@ using namespace std;
 void solve()
 {
     cout << "this is a test";
+    cout <<" this is the after test";
 }
  
 int main()
