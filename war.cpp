@@ -26,6 +26,7 @@ void solve()
 {
     cout << "this is a test";
     cout <<" this is the after test";
+    cout << "this is a test branch";
 }
  
 int main()
